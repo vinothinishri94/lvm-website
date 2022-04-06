@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How-to-uses on Linux VM Images - Download VirtualBox and VMware Images</title>
+    <link>https://www.linuxvmimages.com/how-to-use/</link>
+    <description>Recent content in How-to-uses on Linux VM Images - Download VirtualBox and VMware Images</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Mar 2021 04:41:06 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/how-to-use/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Import VM Images in VirtualBox (OVA File)</title>
+      <link>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-virtualbox/</link>
+      <pubDate>Tue, 31 Dec 2019 03:41:06 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-virtualbox/</guid>
+      <description>Step 1: Go to the downloads directory of your system (default one) or to the location where you have saved the VM image.
+Step 2: Extract the VM zip file using WinZip or 7-Zip program.
+Extract Downloaded VM Archive FileStep 3: Open the VirtualBox.
+Open VirtualBoxStep 4: Go to file &amp;raquo; Import Appliance.
+Import Virtual ApplianceStep 5: On the Import Virtual Appliance wizard, click the browse icon button to choose a VM file to import.</description>
+    </item>
+    
+    <item>
+      <title>How To Import VM Images in VMware Workstation (OVF File)</title>
+      <link>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-vmware/</link>
+      <pubDate>Tue, 31 Dec 2019 04:41:06 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-vmware/</guid>
+      <description>Step 1: Go to the downloads directory of your system (default one) or to the location where you have saved the VM image.
+Step 2: Extract the VM zip file using WinZip or 7-Zip program.
+Extract Downloaded VM Archive FileStep 3: Open VMware Workstation and go to File &amp;raquo; Open.
+Import Virtual ApplianceStep 4: Browse to the location where you have extracted the VM image. Select the image and then click on Open.</description>
+    </item>
+    
+    <item>
+      <title>How To Import VM Images in VirtualBox (VDI File)</title>
+      <link>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-virtualbox-vdi/</link>
+      <pubDate>Wed, 24 Mar 2021 03:41:06 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-virtualbox-vdi/</guid>
+      <description>Step 1: Go to the downloads directory of your system (default one) or to the location where you have saved the VM image.
+Step 2: Extract the compressed file using the 7-Zip.
+Extract Downloaded VM Archive FileOptionally, move the extracted folder to where you have your other VMs data/disk files
+Step 3: Go to the extracted folder and then double-click the .vbox file.
+Open Vbox FileStep 4: In a second or two, VirtualBox will open and you should see the new virtual machine.</description>
+    </item>
+    
+    <item>
+      <title>How To Import VM Images in VMware Workstation (VMDK File)</title>
+      <link>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-vmware-vmdk/</link>
+      <pubDate>Wed, 24 Mar 2021 04:41:06 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-vmware-vmdk/</guid>
+      <description>Step 1: Go to the downloads directory of your system (default one) or to the location where you have saved the VM image.
+Step 2: Extract the compressed file using the 7-Zip.
+Extract Downloaded VM Archive FileOptionally, move the extracted folder to where you have your other VMs.
+Step 3: Open VMware Workstation and go to File &amp;raquo; Open.
+Import Virtual ApplianceStep 4: Browse to the location where you have extracted the VM image.</description>
+    </item>
+    
+    <item>
+      <title>VM Image Password?</title>
+      <link>https://www.linuxvmimages.com/how-to-use/vm-image-password/</link>
+      <pubDate>Sat, 07 Nov 2020 03:41:06 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/how-to-use/vm-image-password/</guid>
+      <description>Are you wondering about login credentials for the downloaded image? No worries. Here you can find a list of passwords.
+Search your image and get the password.
+The username and password will be the same for all versions of a specific operating system.
+ROOT Password is linuxvmimages.com
+IMAGEUSERNAME / PASSWORDCentOScentos / centosUbuntuubuntu / ubuntuDebiandebian / debian Fedorafedora / fedora Linux Mintlinuxmint / linuxmintMX Linuxmxlinux / mxlinuxManjaromanjaro / manjaroElementary OSelementaryos / elementaryosSolus OSsolus / solusDeepindeepin / deepinKDE neonkdeneon / kdeneonAntixantix / antixKubuntukubuntu / kubuntuPop!</description>
+    </item>
+    
+  </channel>
+</rss>

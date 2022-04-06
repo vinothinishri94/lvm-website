@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /authors/
+Disallow: /download/
+Disallow: /pages/
+
+Sitemap: https://www.linuxvmimages.com/sitemap.xml
