@@ -6,7 +6,7 @@
     <description>Recent content in Images on Linux VM Images - Download VirtualBox and VMware Images</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2022 10:59:33 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/images/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 12:59:33 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/images/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kali Linux 2022.1 VM Images | Kali Linux 2022.1 VirtualBox Image | Kali Linux 2022.1 VMware Image</title>
       <link>https://www.linuxvmimages.com/images/kalilinux-2022/</link>
@@ -667,6 +667,18 @@ The VirtualBox and VMware images are created in such a way that they are less in
       <guid>https://www.linuxvmimages.com/images/fedora-32/</guid>
       <description>Introduction Here, we provide ready to use Fedora 32 VirtualBox and VMware images for urgent requirements. The VirtualBox and VMware images are created in such a way that they are less in size but contains all the standard packages required for instant run.
 Download Links Fedora 32VirtualBox Image (Size 4.5GB)VMware Image - Part 1 (Size 4.7GB)VMware Image - Part 2 (Size 1.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu MATE 22.04 VM Images | Ubuntu MATE 22.04 VirtualBox Image | Ubuntu MATE 22.04 VMware Image</title>
+      <link>https://www.linuxvmimages.com/images/ubuntumate-2204/</link>
+      <pubDate>Sat, 23 Apr 2022 12:59:33 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/images/ubuntumate-2204/</guid>
+      <description>Introduction Ubuntu MATE is an open-source Linux distribution and an official derivative of Ubuntu. It uses MATE desktop environment as its graphical interface.
+Ubuntu MATE 22.04 is the latest Long Term Release featuring MATE 1.26.1, based on Ubuntu 22.04 LTS (Jammy Jellyfish). This LTS release will be supported till April 2025.
+Ubuntu MATE 22.04 comes with Linux 5.15, Firefox 99.0, Celluloid 0.20, Evolution 3.44 &amp;amp; LibreOffice 7.3.2.1.
+Read: Release Notes</description>
     </item>
     
     <item>
