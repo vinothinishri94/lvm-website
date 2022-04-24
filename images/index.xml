@@ -6,7 +6,7 @@
     <description>Recent content in Images on Linux VM Images - Download VirtualBox and VMware Images</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 01:59:33 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/images/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 10:59:33 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/images/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kali Linux 2022.1 VM Images | Kali Linux 2022.1 VirtualBox Image | Kali Linux 2022.1 VMware Image</title>
       <link>https://www.linuxvmimages.com/images/kalilinux-2022/</link>
@@ -670,6 +670,19 @@ The VirtualBox and VMware images are created in such a way that they are less in
     </item>
     
     <item>
+      <title>Kubuntu 22.04 VM Images | Kubuntu 22.04 VirtualBox Image | Kubuntu 22.04 VMware Image</title>
+      <link>https://www.linuxvmimages.com/images/kubuntu-2204/</link>
+      <pubDate>Fri, 22 Apr 2022 10:59:33 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/images/kubuntu-2204/</guid>
+      <description>Introduction Kubuntu 22.04 (Jammy Jellyfish) features the beautiful Plasma 5.24 LTS : simple by default, powerful when needed. Kubuntu comes with updates to many core packages, including a new 5.15-based kernel, KDE Frameworks 5.92, and KDE Gear (formerly Applications) 21.12.3.
+Firefox 99 is the default browser, using a snap from the Ubuntu archive.
+LibreOffice 7.3.2.2 is provided by default in the full installation.
+Kubuntu 22.04 ships with Qt 5.15.3
+Read: New Features Of Kubuntu 22.</description>
+    </item>
+    
+    <item>
       <title>antiX 21 VM Images | antiX 21 VirtualBox Image | antiX 21 VMware Image</title>
       <link>https://www.linuxvmimages.com/images/antix-21/</link>
       <pubDate>Fri, 12 Nov 2021 02:59:33 +0000</pubDate>
@@ -747,7 +760,7 @@ The VirtualBox and VMware images are created in such a way that they are less in
       <guid>https://www.linuxvmimages.com/images/kubuntu-2004/</guid>
       <description>Introduction Kubuntu 20.04 (Focal Fossa) features the beautiful KDE Plasma 5.18 LTS: simple by default, powerful when needed. Kubuntu comes with updates to many core packages, including a new 5.4-based kernel, KDE Frameworks 5.68, Plasma 5.18 LTS and KDE Applications 19.12.3.
 Read: New Features Of Kubuntu 20.04.
-The VirtualBox and VMware images are created in such a way that they are less in size but contains all the standard packages required for instant run.</description>
+Download Links Kubuntu 20.04 LTS (Focal Fossa)VirtualBox Image (Size 3GB)VMWare Image (Size 3.1GB)VM images comes pre-installed with VirtualBox Guest Additions / Open VM Tools for better performance.</description>
     </item>
     
     <item>
