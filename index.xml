@@ -59,6 +59,18 @@ Import Virtual ApplianceStep 4: Browse to the location where you have extracte
     </item>
     
     <item>
+      <title>Xubuntu 20.04 VM Images | Xubuntu 22.04 VirtualBox Image | Xubuntu 22.04 VMware Image</title>
+      <link>https://www.linuxvmimages.com/images/xubuntu-2204/</link>
+      <pubDate>Sat, 23 Apr 2022 01:59:33 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/images/xubuntu-2204/</guid>
+      <description>Introduction Xubuntu 22.04 (Jammy Jellyfish) features the beautiful Xfce desktop environment. Xubuntu 22.04 was released April 21, 2022 and will be supported for three years, until 2025.
+Xubuntu 22.04 comes with Xfce 4.16, Mousepad 0.5.8, Ristretto 0.12.2, Whisker Menu Plugin 2.7.1 and Six new community wallpaper.
+Read: New Features Of Xubuntu 22.04.
+The VirtualBox and VMware images are created in such a way that they are less in size but contains all the standard packages required for instant run.</description>
+    </item>
+    
+    <item>
       <title>Kali Linux 2022.1 VM Images | Kali Linux 2022.1 VirtualBox Image | Kali Linux 2022.1 VMware Image</title>
       <link>https://www.linuxvmimages.com/images/kalilinux-2022/</link>
       <pubDate>Tue, 01 Mar 2022 01:59:33 +0000</pubDate>
