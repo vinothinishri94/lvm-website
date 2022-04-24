@@ -348,6 +348,19 @@ The VirtualBox and VMware images are created in such a way that they are less in
     </item>
     
     <item>
+      <title>Ubuntu Studio 22.04 VM Images | Ubuntu Studio 22.04 VirtualBox Image | Ubuntu Studio 22.04 VMware Image</title>
+      <link>https://www.linuxvmimages.com/images/ubuntustudio-2204/</link>
+      <pubDate>Sat, 23 Apr 2022 10:59:33 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/images/ubuntustudio-2204/</guid>
+      <description>Introduction Ubuntu Studio 22.04 (Jammy Jellyfish) is the latest Long Term Release and 31st release from Ubuntu Studio Project, supported for 3 years until April 2025.
+Ubuntu Studio 22.04 made Dark Theme By Default, has support for rEFInd bootloader, Backports PPA and Plasma Backports.
+This release will be the first LTS release of Ubuntu Studio that uses Plasma Desktop Environment.
+Read: Release Notes
+Download Links Ubuntu Studio 22.</description>
+    </item>
+    
+    <item>
       <title>Ubuntu 22.04 VM Images | Ubuntu 22.04 VirtualBox Image | Ubuntu 22.04 VMware Image</title>
       <link>https://www.linuxvmimages.com/images/ubuntu-2204/</link>
       <pubDate>Tue, 05 Apr 2022 01:59:33 +0000</pubDate>
