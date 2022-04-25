@@ -20,6 +20,18 @@ The VirtualBox and VMware images are created in such a way that they are less in
     </item>
     
     <item>
+      <title>Ubuntu Kylin 22.04 VM Images | Ubuntu Kylin 22.04 VirtualBox Image | Ubuntu Kylin 22.04 VMware Image</title>
+      <link>https://www.linuxvmimages.com/images/ubuntukylin-2204/</link>
+      <pubDate>Fri, 22 Apr 2022 01:59:33 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/images/ubuntukylin-2204/</guid>
+      <description>Introduction Ubuntu Kylin 22.04 (Jammy Jellyfish) is an official derivative of Ubuntu 22.04 from National University of Defense Technology, Canonical Ltd., and Ubuntu Kylin Community. It is a very friendly and easy to use Ubuntu derivative.
+The 22.04 LTS version is comes with the Linux 5.15 LTS kernel and the new UKUI 3.1 (based on Qt) desktop environment by default.
+Read: Release Notes.
+The VirtualBox and VMware images are created in such a way that they are less in size but contains all the standard packages required for instant run.</description>
+    </item>
+    
+    <item>
       <title>Kali Linux 2022.1 VM Images | Kali Linux 2022.1 VirtualBox Image | Kali Linux 2022.1 VMware Image</title>
       <link>https://www.linuxvmimages.com/images/kalilinux-2022/</link>
       <pubDate>Tue, 01 Mar 2022 01:59:33 +0000</pubDate>
@@ -345,6 +357,17 @@ The VirtualBox and VMware images are created in such a way that they are less in
 Read: New Features Of Ubuntu Kylin 20.04.
 The VirtualBox and VMware images are created in such a way that they are less in size but contains all the standard packages required for instant run.
 Download Links This image can be used on both VirtualBox and VMware Workstation.</description>
+    </item>
+    
+    <item>
+      <title>Lubuntu 22.04 VM Images | Lubuntu 22.04 VirtualBox Image | Lubuntu 22.04 VMware Image</title>
+      <link>https://www.linuxvmimages.com/images/lubuntu-2204/</link>
+      <pubDate>Sat, 23 Apr 2022 10:59:33 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/images/lubuntu-2204/</guid>
+      <description>Introduction Lubuntu 22.04 is the latest Long Term Release from Lubuntu Community. It is an official Ubuntu flavor and 8th release of Lubuntu with the Lightweight Qt Desktop Environment (LXQt). LXQt provides a lightweight yet functional Linux distribution based on a rock-solid Ubuntu base.
+Lubuntu 22.04 LTS will be supported for 3 years until April 2025.
+It comes with LXQt 0.17.0, Qt 5.15.3, Firefox browser as a snap, LibreOffice 7.3.2, VLC 3.</description>
     </item>
     
     <item>
