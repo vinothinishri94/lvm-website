@@ -6,7 +6,19 @@
     <description>Recent content in Images on Linux VM Images - Download VirtualBox and VMware Images</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2022 12:59:33 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/images/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 04:59:33 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/images/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pop!_OS 22.04 VM Images | Pop!_OS 22.04 VirtualBox Image | Pop!_OS 22.04 VMware Image</title>
+      <link>https://www.linuxvmimages.com/images/popos-2204/</link>
+      <pubDate>Wed, 27 Apr 2022 04:59:33 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/images/popos-2204/</guid>
+      <description>Introduction Pop!_OS 22.04 is the latest long-term-supported release from System76, Inc, based on Ubuntu 22.04 LTS. It features the 5.16 kernel, Mesa 22, GNOME 42 base with COSMIC UX, and the latest NVIDIA drivers.
+It includes scheduling of automatic updates, new support panel for troubleshooting, new and improved Pop!_Shop, Switch to PipeWire for Audio Processing and much more.
+READ: Release Notes
+Download Links Pop!_OS 22.04 [LTS]FASTER DOWNLOADOwn ServerREGULAR DOWNLOADSourceForgeCHECKSUMMustFASTER DOWNLOAD !</description>
+    </item>
+    
     <item>
       <title>Xubuntu 20.04 VM Images | Xubuntu 22.04 VirtualBox Image | Xubuntu 22.04 VMware Image</title>
       <link>https://www.linuxvmimages.com/images/xubuntu-2204/</link>

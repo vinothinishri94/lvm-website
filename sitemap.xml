@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>https://www.linuxvmimages.com/images/popos-2204/</loc>
+    <lastmod>2022-04-27T04:59:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
     <loc>https://www.linuxvmimages.com/images/xubuntu-2204/</loc>
     <lastmod>2022-04-23T01:59:33+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -768,14 +775,14 @@
   
   <url>
     <loc>https://www.linuxvmimages.com/images/</loc>
-    <lastmod>2022-04-23T12:59:33+00:00</lastmod>
+    <lastmod>2022-04-27T04:59:33+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   
   <url>
     <loc>https://www.linuxvmimages.com/</loc>
-    <lastmod>2022-04-23T12:59:33+00:00</lastmod>
+    <lastmod>2022-04-27T04:59:33+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
