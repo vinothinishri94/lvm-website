@@ -6,7 +6,7 @@
     <description>Recent content on Linux VM Images - Download VirtualBox and VMware Images</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2022 04:59:33 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 00:59:33 +0000</lastBuildDate><atom:link href="https://www.linuxvmimages.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Import VM Images in VirtualBox (OVA File)</title>
       <link>https://www.linuxvmimages.com/how-to-use/how-to-import-vm-images-in-virtualbox/</link>
@@ -420,6 +420,18 @@ The VirtualBox and VMware images are created in such a way that they are less in
 Read: New Features Of Ubuntu Kylin 20.04.
 The VirtualBox and VMware images are created in such a way that they are less in size but contains all the standard packages required for instant run.
 Download Links This image can be used on both VirtualBox and VMware Workstation.</description>
+    </item>
+    
+    <item>
+      <title>Fedora 36 VM Images | Fedora 36 VirtualBox Image | Fedora 36 VMware Image</title>
+      <link>https://www.linuxvmimages.com/images/fedora-36/</link>
+      <pubDate>Fri, 13 May 2022 00:59:33 +0000</pubDate>
+      
+      <guid>https://www.linuxvmimages.com/images/fedora-36/</guid>
+      <description>Introduction Fedora Workstation 36 was released on May 10, 2022, by the Fedora project.
+It comes with GNOME 42 that brings lot of improvements. GNOME 42 now includes two new applications: Text Editor and Console. Many applications have been ported to GTK 4 for improved style and performance
+Fedora 36 includes the latest release of Ansible. Ansible 5 splits the “engine” into an ansible-core package and collections packages.
+Fedora 36 also includes Kernel 5.</description>
     </item>
     
     <item>
